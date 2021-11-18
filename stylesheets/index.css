@@ -1,0 +1,126 @@
+html{
+  overflow-y: scroll;
+}
+body{
+    margin: 0px;
+  }
+
+header{
+      height: 97px;
+      width: 100%;
+      background-color: #ECF2F8;
+}
+
+#first-block{
+    height: 530px;
+    width: 100%;
+    background-image: url("../images/top.png");
+    background-size: 100%;
+    padding-top: 277px;
+    padding-left: 50px;
+}
+h1{
+  font-size: 80px;
+  font-family: sans-serif;
+  color: rgba(39, 41, 43, 0.973);
+  height: 100px;
+  line-height: 88px;
+}
+#second-block{
+  height: 750px;
+  width: 100%;
+  background-color: aqua;
+}
+#third-block{
+  height: 223px;
+  width: 100%;
+  padding-top: 35px;
+  padding-left: 234px;
+  background-color: rgb(46, 114, 170);
+}
+.myFont{
+  font-size: 80px;
+  font-family: sans-serif;
+  color:white;
+}
+#fourth-block{
+  height: 2100px;
+  width: 100%;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  background-color:white;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.image1{
+  height: 500px;
+  width: 500px;
+  padding-left: 50px;
+  padding-top:50px ;
+
+}
+.image2{
+  height: 500px;
+  width: 500px;
+  padding-left: 50px;
+  padding-top:50px ;
+}
+.image3{
+  height: 500px;
+  width: 500px;
+  padding-left: 50px;
+  padding-top:50px ;
+}
+
+.fourth-font1{
+  font-size: 40px;
+  font-family: sans-serif;
+  color:rgb(46, 114, 170);
+  
+}
+.fourth-font2{
+  font-size: 20px;
+  font-family: sans-serif;
+  color:black;
+  
+}
+.tategaki{
+  font-size: 40px;
+  font-family: sans-serif;
+  writing-mode: tb-rl;
+  writing-mode: vertical-rl;
+  position: relative;
+  top:-19px;
+  left: -1295px;
+}
+
+#fifth-block{
+  height: 500px;
+  background-color:rgb(139, 186, 201);
+  display: flex;
+  flex-wrap: wrap;
+}
+.grayzone{
+  height: 100px;
+  width: 100%;
+  margin-top: 50px;
+  margin-bottom: 250px;
+  margin-left: 400px;
+  margin-right: 400px;
+  background-color:gray;
+}
+.bluezone{
+  height: 100px;
+  width: 100%;
+  background-color:rgb(46, 114, 170);
+}
+
+
+
+
+  
+
+
+  
